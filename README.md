@@ -8,6 +8,15 @@ A redesign of the original [brandeez-elevate](https://github.com/uditplayz/brand
 - Accessible mobile menu: a real `<button>` with `aria-expanded`, closes on link click / `Esc`, plus a skip link and visible focus states.
 - Fixed v1 issues: the contact button's `mailto:` now matches the displayed address, and the footer copyright now says Brandeez.
 
+### Desktop: 
+
+![desktop.png](screenshots/desktop.png)
+
+
+### Mobile:
+
+![mobile-1.jpeg](screenshots/mobile-1.jpeg) | ![mobile-2.jpeg](screenshots/mobile-2.jpeg)
+
 ## Responsive approach
 | Breakpoint | Changes |
 |---|---|

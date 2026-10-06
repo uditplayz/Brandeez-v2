@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85d1815f-45af-4a30-972f-d53ab31b9e73" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "uditplayz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/uditplayz/Brandeez-v2.git",
+    "accountId": "fc26f67e-34c4-4144-947f-77c500c5d41d"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000075766944536" />
+      <entry key="S2" value="1.052465032163211" />
+      <entry key="S5" value="1.307572908585466" />
+      <entry key="S10" value="1.5549883965618532" />
+      <entry key="S30" value="1.9951804421166481" />
+      <entry key="S60" value="2.806917743793977" />
+      <entry key="M2" value="4.0559391813549155" />
+      <entry key="M5" value="5.510038692913562" />
+      <entry key="M10" value="6.189714979247419" />
+      <entry key="M15" value="6.444111609644159" />
+      <entry key="M30" value="6.713886754440545" />
+      <entry key="H1" value="6.854838804475305" />
+      <entry key="H2" value="6.926885258790913" />
+      <entry key="H4" value="6.963308079971555" />
+      <entry key="D1" value="6.993865905911042" />
+      <entry key="W1" value="6.999123239936535" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.984869452488907" />
+      <entry key="S2" value="1.0378460941032397" />
+      <entry key="S5" value="1.278923298548368" />
+      <entry key="S10" value="1.5292016788824345" />
+      <entry key="S30" value="1.9817756871206293" />
+      <entry key="S60" value="2.7984011050325135" />
+      <entry key="M2" value="4.050618444960294" />
+      <entry key="M5" value="5.50746504609101" />
+      <entry key="M10" value="6.18832845419799" />
+      <entry key="M15" value="6.4431627173413135" />
+      <entry key="M30" value="6.71339938222269" />
+      <entry key="H1" value="6.854591758130973" />
+      <entry key="H2" value="6.926760878931089" />
+      <entry key="H4" value="6.963245673756515" />
+      <entry key="D1" value="6.993855474654605" />
+      <entry key="W1" value="6.999121749014578" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KKZstpTgigucTQUWtYp1PzhNRP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85d1815f-45af-4a30-972f-d53ab31b9e73" name="Changes" comment="" />
+      <created>1791308430142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791308430142</updated>
+      <workItem from="1791308431148" duration="1993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
