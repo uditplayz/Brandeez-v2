@@ -15,7 +15,7 @@ A redesign of the original [brandeez-elevate](https://github.com/uditplayz/brand
 
 ### Mobile:
 
-![mobile-1.jpeg](screenshots/mobile-1.jpeg) | ![mobile-2.jpeg](screenshots/mobile-2.jpeg)
+![mobile.png](screenshots/mobile.png)
 
 ## Responsive approach
 | Breakpoint | Changes |
