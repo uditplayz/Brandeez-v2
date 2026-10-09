@@ -1,4 +1,5 @@
 # Brandeez v2 — Responsive Landing Page
+## It is hosted live on github pages
 
 A redesign of the original [brandeez-elevate](https://github.com/uditplayz/brandeez-elevate) landing page, converted into a polished, mobile-friendly layout using **CSS media queries**.
 
